@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="alios_small-001\alios_small\Header Files\LoRaMacTest.h">
+<ExpandedNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\TopDesign</v>
+<v>alios_small-001\alios_small\alios_small.cydwr</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Pins</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Analog</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Clocks</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Interrupts</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\System</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Directives</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Flash Security</v>
+<v>alios_small-001\alios_small\Header Files</v>
+<v>alios_small-001\alios_small\Header Files\asr_timer.h</v>
+<v>alios_small-001\alios_small\Header Files\board_test.h</v>
+<v>alios_small-001\alios_small\Header Files\board-config.h</v>
+<v>alios_small-001\alios_small\Header Files\commissioning.h</v>
+<v>alios_small-001\alios_small\Header Files\cyapicallbacks.h</v>
+<v>alios_small-001\alios_small\Header Files\debug.h</v>
+<v>alios_small-001\alios_small\Header Files\delay.h</v>
+<v>alios_small-001\alios_small\Header Files\delay-board.h</v>
+<v>alios_small-001\alios_small\Header Files\gpio.h</v>
+<v>alios_small-001\alios_small\Header Files\gpio-board.h</v>
+<v>alios_small-001\alios_small\Header Files\hw.h</v>
+<v>alios_small-001\alios_small\Header Files\hw_conf.h</v>
+<v>alios_small-001\alios_small\Header Files\linkwan.h</v>
+<v>alios_small-001\alios_small\Header Files\linkwan_ica_at.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMac.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMacCrypto.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMacTest.h</v>
+<v>alios_small-001\alios_small\Header Files\lorawan.h</v>
+<v>alios_small-001\alios_small\Header Files\lorawan_port.h</v>
+<v>alios_small-001\alios_small\Header Files\low_power.h</v>
+<v>alios_small-001\alios_small\Header Files\RegionEU868.h</v>
+<v>alios_small-001\alios_small\Header Files\rtc-board.h</v>
+<v>alios_small-001\alios_small\Header Files\spi.h</v>
+<v>alios_small-001\alios_small\Header Files\spi-board.h</v>
+<v>alios_small-001\alios_small\Header Files\sx126x-board.h</v>
+<v>alios_small-001\alios_small\Header Files\timer.h</v>
+<v>alios_small-001\alios_small\Header Files\timeServer.h</v>
+<v>alios_small-001\alios_small\Header Files\uart-board.h</v>
+<v>alios_small-001\alios_small\Header Files\utilities.h</v>
+<v>alios_small-001\alios_small\Source Files</v>
+<v>alios_small-001\alios_small\Source Files\aos</v>
+<v>alios_small-001\alios_small\Source Files\aos\aos_smallsize.c</v>
+<v>alios_small-001\alios_small\Source Files\aos\soc_impl.c</v>
+<v>alios_small-001\alios_small\Source Files\board\asr_board.c</v>
+<v>alios_small-001\alios_small\Source Files\board\board.c</v>
+<v>alios_small-001\alios_small\Source Files\board\board.h</v>
+<v>alios_small-001\alios_small\Source Files\board\gpio.c</v>
+<v>alios_small-001\alios_small\Source Files\board\gpio_irq.c</v>
+<v>alios_small-001\alios_small\Source Files\board\gpio-board.c</v>
+<v>alios_small-001\alios_small\Source Files\board\k_config.h</v>
+<v>alios_small-001\alios_small\Source Files\board\spi-board.c</v>
+<v>alios_small-001\alios_small\Source Files\hal</v>
+<v>alios_small-001\alios_small\Source Files\hal\cli.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\cli.h</v>
+<v>alios_small-001\alios_small\Source Files\hal\dumpsys.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\uart_port.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\uart_port.h</v>
+<v>alios_small-001\alios_small\Source Files\kernel\modules\fs\kv\kvmgr.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_buf_queue.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_dyn_mem_proc.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_err.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_event.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_fifo.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_idle.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_mm.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_mm_blk.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_mm_debug.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_mutex.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_obj.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_pend.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_queue.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_ringbuf.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_sched.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_sem.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_stats.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_sys.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_task.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_task_sem.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_tick.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_time.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_timer.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_trace.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino\k_workqueue.c</v>
+<v>alios_small-001\alios_small\Source Files\kernel\vcall\aos_rhino.c</v>
+<v>alios_small-001\alios_small\Source Files\linkwan</v>
+<v>alios_small-001\alios_small\Source Files\linkwan\linkwan.c</v>
+<v>alios_small-001\alios_small\Source Files\linkwan\linkwan_ica_at.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac</v>
+<v>alios_small-001\alios_small\Source Files\loramac\aes.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\cmac.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMac.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacConfirmQueue.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacCrypto.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\Region.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\RegionCommon.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\RegionEU868.c</v>
+<v>alios_small-001\alios_small\Source Files\loraradio</v>
+<v>alios_small-001\alios_small\Source Files\loraradio\radio.c</v>
+<v>alios_small-001\alios_small\Source Files\loraradio\sx126x.c</v>
+<v>alios_small-001\alios_small\Source Files\loraRun</v>
+<v>alios_small-001\alios_small\Source Files\loraRun\loraRun.c</v>
+<v>alios_small-001\alios_small\Source Files\lorasystem</v>
+<v>alios_small-001\alios_small\Source Files\lorasystem\delay.c</v>
+<v>alios_small-001\alios_small\Source Files\lorasystem\low_power.c</v>
+<v>alios_small-001\alios_small\Source Files\lorasystem\utilities.c</v>
+<v>alios_small-001\alios_small\Source Files\platform\arch</v>
+<v>alios_small-001\alios_small\Source Files\platform\arch\port_c.c</v>
+<v>alios_small-001\alios_small\Source Files\platform\arch\port_s.S</v>
+<v>alios_small-001\alios_small\Generated_Source</v>
+<v>alios_small-001\alios_small\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>alios_small-001\alios_small\Header Files\spi.h</v>
+<v>alios_small-001\alios_small\Header Files\spi-board.h</v>
+<v>alios_small-001\alios_small\Header Files\sx126x-board.h</v>
+<v>alios_small-001\alios_small\Header Files\timer.h</v>
+<v>alios_small-001\alios_small\Header Files\timeServer.h</v>
+<v>alios_small-001\alios_small\Header Files\uart-board.h</v>
+<v>alios_small-001\alios_small\Header Files\utilities.h</v>
+<v>alios_small-001\alios_small\Source Files</v>
+<v>alios_small-001\alios_small\Source Files\aos</v>
+<v>alios_small-001\alios_small\Source Files\aos\aos_smallsize.c</v>
+<v>alios_small-001\alios_small\Source Files\aos\soc_impl.c</v>
+<v>alios_small-001\alios_small\Source Files\board</v>
+<v>alios_small-001\alios_small\Source Files\hal</v>
+<v>alios_small-001\alios_small\Source Files\hal\cli.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\cli.h</v>
+<v>alios_small-001\alios_small\Source Files\hal\dumpsys.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\uart_port.c</v>
+<v>alios_small-001\alios_small\Source Files\hal\uart_port.h</v>
+<v>alios_small-001\alios_small\Source Files\kernel\modules\fs\kv</v>
+<v>alios_small-001\alios_small\Source Files\kernel\rhino</v>
+<v>alios_small-001\alios_small\Source Files\kernel\vcall</v>
+<v>alios_small-001\alios_small\Source Files\linkwan</v>
+<v>alios_small-001\alios_small\Source Files\linkwan\linkwan.c</v>
+<v>alios_small-001\alios_small\Source Files\linkwan\linkwan_ica_at.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac</v>
+<v>alios_small-001\alios_small\Source Files\loramac\aes.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\cmac.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMac.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacConfirmQueue.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacCrypto.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\Region.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\RegionCommon.c</v>
+<v>alios_small-001\alios_small\Source Files\loramac\RegionEU868.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\TopDesign</v>
+<v>alios_small-001\alios_small\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\TopDesign</v>
+<v>alios_small-001\alios_small\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\CortexM0p</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aes.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\antpow.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\antpow_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aos_rhino.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aos_smallsize.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\asr_board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\Bootloadable_1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cli.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cmac.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cybootloader.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\delay.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dio1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dio1_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dumpsys.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\global_irq.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\gpio.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\gpio_irq.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\gpio-board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_buf_queue.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_dyn_mem_proc.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_err.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_event.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_fifo.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_idle.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_mm.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_mm_blk.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_mm_debug.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_mutex.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_obj.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_pend.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_queue.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_ringbuf.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_sched.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_sem.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_stats.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_sys.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_task.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_task_sem.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_tick.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_time.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_timer.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_trace.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\k_workqueue.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\kvmgr.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\linkwan.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\linkwan_ica_at.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\LoRaMac.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\LoRaMacConfirmQueue.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\LoRaMacCrypto.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\loraRun.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\low_power.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\nss.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\nss_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\pin_wakeup.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\pin_wakeup_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\port_c.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\port_s.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\radio.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\Region.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\RegionCommon.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\RegionEU868.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\RTC.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\soc_impl.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_BOOT.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_miso_m.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_miso_m_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_mosi_m.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_mosi_m_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_SCBCLK.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_sclk_m.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_sclk_m_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_SPI.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_SPI_BOOT.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_1_SPI_UART.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_BUSY.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_BUSY_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_NRESET.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_NRESET_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\spi-board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\sx126x.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_rx_wake.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_rx_wake_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_RX_WAKEUP_IRQ.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SCB_IRQ.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SCBCLK.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART_BOOT.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\uart_port.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\utilities.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\wakeup_irq.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\alios_small.cyacd</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\alios_small.elf</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\alios_small.hex</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\alios_small.map</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\Listing Files</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\Listing Files\port_c.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\Listing Files\soc_impl.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\alios_small.cyacd</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\alios_small.elf</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\alios_small.hex</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Release\alios_small.map</v>
+<v>alios_small-001\alios_small\alios_small.gpdsc</v>
+<v>alios_small-001\alios_small\alios_small.rpt</v>
+<v>alios_small-001\alios_small\alios_small_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\CortexM0p</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aes.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\antpow.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\antpow_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aos_rhino.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\aos_smallsize.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\asr_board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\board.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\Bootloadable_1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cli.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cmac.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cybootloader.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\delay.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dio1.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dio1_PM.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\dumpsys.lst</v>
+<v>alios_small-001\alios_small\CortexM0p\ARM_GCC_541\Debug\Listing Files\global_irq.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\PSoC 4 Architecture TRM</v>
+<v>alios_small-001\alios_small\System Reference Guides</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_boot_v5_70</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_dmac_v1_10</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_lfclk_v1_20</v>
+<v>alios_small-001\alios_small\Project Datasheet</v>
+<v>alios_small-001\alios_small\Bootloadable_v1_60.pdf</v>
+<v>alios_small-001\alios_small\cy_gsref_v2_10.pdf</v>
+<v>alios_small-001\alios_small\cy_isr_v1_70</v>
+<v>alios_small-001\alios_small\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>alios_small-001\alios_small\cy_pins_v2_20</v>
+<v>alios_small-001\alios_small\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>alios_small-001\alios_small\RTC_P4_v1_30.pdf</v>
+<v>alios_small-001\alios_small\SCB_P4_v4_0</v>
+<v>alios_small-001\alios_small\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\PSoC 4 Architecture TRM</v>
+<v>alios_small-001\alios_small\System Reference Guides</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_boot_v5_70</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_dmac_v1_10</v>
+<v>alios_small-001\alios_small\System Reference Guides\cy_lfclk_v1_20</v>
+<v>alios_small-001\alios_small\Project Datasheet</v>
+<v>alios_small-001\alios_small\Bootloadable_v1_60.pdf</v>
+<v>alios_small-001\alios_small\cy_gsref_v2_10.pdf</v>
+<v>alios_small-001\alios_small\cy_isr_v1_70</v>
+<v>alios_small-001\alios_small\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>alios_small-001\alios_small\cy_pins_v2_20</v>
+<v>alios_small-001\alios_small\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>alios_small-001\alios_small\RTC_P4_v1_30.pdf</v>
+<v>alios_small-001\alios_small\SCB_P4_v4_0</v>
+<v>alios_small-001\alios_small\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\include\linkwan_ica_at.h" />
+<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\linkwan_ica_at.c" />
+<name v="..\..\..\..\platform\mcu\cy8c4147\hal\uart_port.c" />
+<name v="..\..\..\..\platform\arch\arm\armv6m\gcc\m0\port_s.S" />
+<name v="..\..\..\..\kernel\protocols\lorawan\lora\mac\LoRaMac.c" />
+<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\linkwan.c" />
+<name v="..\..\..\..\kernel\protocols\lorawan\lora\system\crypto\cmac.c" />
+<name v="..\..\..\..\kernel\protocols\lorawan\lora\mac\LoRaMac.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1051, 439" SelectedTabbedMdiWindow="c0c78799-d482-4a71-a640-48231a0b6630"><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\include\linkwan_ica_at.h" Guid="ee01cd08-0d2a-4193-b4ca-1e24896b6cc7" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\linkwan_ica_at.c" Guid="6dd5481e-693a-4d9f-9586-e63539a578d1" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\platform\mcu\cy8c4147\hal\uart_port.c" Guid="965aa0c7-fa72-4e8c-bafa-035c307e6e60" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\platform\arch\arm\armv6m\gcc\m0\port_s.S" Guid="11d8190c-81b3-4f93-91bc-7772ebe2d7b4" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\mac\LoRaMac.c" Guid="cc819084-6283-4cb3-a709-30ca23dc91bf" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\linkwan.c" Guid="c0c78799-d482-4a71-a640-48231a0b6630" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\system\crypto\cmac.c" Guid="7f27ba49-284b-4074-bab5-6686f1672b3b" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\mac\LoRaMac.h" Guid="465a07ee-3ee6-493d-987c-dae3679a094d" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4407d452-5546-4009-998f-eb63dcb4d16d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="Debug" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
