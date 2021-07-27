@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="alios_small-001\alios_small\Header Files\LoRaMacTest.h">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="alios_small-001\alios_small\TopDesign">
 <ExpandedNodeIds>
 <v>alios_small-001</v>
 <v>alios_small-001\alios_small</v>
@@ -134,39 +134,39 @@
 <v>alios_small-001\alios_small\Generated_Source\PSoC4</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>alios_small-001\alios_small\Header Files\spi.h</v>
-<v>alios_small-001\alios_small\Header Files\spi-board.h</v>
-<v>alios_small-001\alios_small\Header Files\sx126x-board.h</v>
-<v>alios_small-001\alios_small\Header Files\timer.h</v>
-<v>alios_small-001\alios_small\Header Files\timeServer.h</v>
-<v>alios_small-001\alios_small\Header Files\uart-board.h</v>
-<v>alios_small-001\alios_small\Header Files\utilities.h</v>
-<v>alios_small-001\alios_small\Source Files</v>
-<v>alios_small-001\alios_small\Source Files\aos</v>
-<v>alios_small-001\alios_small\Source Files\aos\aos_smallsize.c</v>
-<v>alios_small-001\alios_small\Source Files\aos\soc_impl.c</v>
-<v>alios_small-001\alios_small\Source Files\board</v>
-<v>alios_small-001\alios_small\Source Files\hal</v>
-<v>alios_small-001\alios_small\Source Files\hal\cli.c</v>
-<v>alios_small-001\alios_small\Source Files\hal\cli.h</v>
-<v>alios_small-001\alios_small\Source Files\hal\dumpsys.c</v>
-<v>alios_small-001\alios_small\Source Files\hal\uart_port.c</v>
-<v>alios_small-001\alios_small\Source Files\hal\uart_port.h</v>
-<v>alios_small-001\alios_small\Source Files\kernel\modules\fs\kv</v>
-<v>alios_small-001\alios_small\Source Files\kernel\rhino</v>
-<v>alios_small-001\alios_small\Source Files\kernel\vcall</v>
-<v>alios_small-001\alios_small\Source Files\linkwan</v>
-<v>alios_small-001\alios_small\Source Files\linkwan\linkwan.c</v>
-<v>alios_small-001\alios_small\Source Files\linkwan\linkwan_ica_at.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac</v>
-<v>alios_small-001\alios_small\Source Files\loramac\aes.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\cmac.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\LoRaMac.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacConfirmQueue.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\LoRaMacCrypto.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\Region.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\RegionCommon.c</v>
-<v>alios_small-001\alios_small\Source Files\loramac\RegionEU868.c</v>
+<v>alios_small-001</v>
+<v>alios_small-001\alios_small</v>
+<v>alios_small-001\alios_small\TopDesign</v>
+<v>alios_small-001\alios_small\alios_small.cydwr</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Pins</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Analog</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Clocks</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Interrupts</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\System</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Directives</v>
+<v>alios_small-001\alios_small\alios_small.cydwr\Flash Security</v>
+<v>alios_small-001\alios_small\Header Files</v>
+<v>alios_small-001\alios_small\Header Files\asr_timer.h</v>
+<v>alios_small-001\alios_small\Header Files\board_test.h</v>
+<v>alios_small-001\alios_small\Header Files\board-config.h</v>
+<v>alios_small-001\alios_small\Header Files\commissioning.h</v>
+<v>alios_small-001\alios_small\Header Files\cyapicallbacks.h</v>
+<v>alios_small-001\alios_small\Header Files\debug.h</v>
+<v>alios_small-001\alios_small\Header Files\delay.h</v>
+<v>alios_small-001\alios_small\Header Files\delay-board.h</v>
+<v>alios_small-001\alios_small\Header Files\gpio.h</v>
+<v>alios_small-001\alios_small\Header Files\gpio-board.h</v>
+<v>alios_small-001\alios_small\Header Files\hw.h</v>
+<v>alios_small-001\alios_small\Header Files\hw_conf.h</v>
+<v>alios_small-001\alios_small\Header Files\linkwan.h</v>
+<v>alios_small-001\alios_small\Header Files\linkwan_ica_at.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMac.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMacCrypto.h</v>
+<v>alios_small-001\alios_small\Header Files\LoRaMacTest.h</v>
+<v>alios_small-001\alios_small\Header Files\lorawan.h</v>
+<v>alios_small-001\alios_small\Header Files\lorawan_port.h</v>
+<v>alios_small-001\alios_small\Header Files\low_power.h</v>
+<v>alios_small-001\alios_small\Header Files\RegionEU868.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -405,23 +405,14 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs>
-<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\include\linkwan_ica_at.h" />
-<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\linkwan_ica_at.c" />
-<name v="..\..\..\..\platform\mcu\cy8c4147\hal\uart_port.c" />
-<name v="..\..\..\..\platform\arch\arm\armv6m\gcc\m0\port_s.S" />
-<name v="..\..\..\..\kernel\protocols\lorawan\lora\mac\LoRaMac.c" />
-<name v="..\..\..\..\kernel\protocols\lorawan\linkwan\linkwan.c" />
-<name v="..\..\..\..\kernel\protocols\lorawan\lora\system\crypto\cmac.c" />
-<name v="..\..\..\..\kernel\protocols\lorawan\lora\mac\LoRaMac.h" />
-</OpenDocs>
+<OpenDocs />
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
   Actipro Docking/MDI for WinForms
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1051, 439" SelectedTabbedMdiWindow="c0c78799-d482-4a71-a640-48231a0b6630"><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\include\linkwan_ica_at.h" Guid="ee01cd08-0d2a-4193-b4ca-1e24896b6cc7" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\linkwan_ica_at.c" Guid="6dd5481e-693a-4d9f-9586-e63539a578d1" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\platform\mcu\cy8c4147\hal\uart_port.c" Guid="965aa0c7-fa72-4e8c-bafa-035c307e6e60" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\platform\arch\arm\armv6m\gcc\m0\port_s.S" Guid="11d8190c-81b3-4f93-91bc-7772ebe2d7b4" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\mac\LoRaMac.c" Guid="cc819084-6283-4cb3-a709-30ca23dc91bf" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\linkwan\linkwan.c" Guid="c0c78799-d482-4a71-a640-48231a0b6630" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\system\crypto\cmac.c" Guid="7f27ba49-284b-4074-bab5-6686f1672b3b" /><DocumentWindow Key="C:\Users\juanfe\Downloads\alios-asr-lora-master\kernel\protocols\lorawan\lora\mac\LoRaMac.h" Guid="465a07ee-3ee6-493d-987c-dae3679a094d" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4407d452-5546-4009-998f-eb63dcb4d16d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1053, 372" SelectedTabbedMdiWindow="4407d452-5546-4009-998f-eb63dcb4d16d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4407d452-5546-4009-998f-eb63dcb4d16d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Debug" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
